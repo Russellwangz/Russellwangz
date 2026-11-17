@@ -6,12 +6,12 @@ My work spans cloud infrastructure testing, machine learning, software engineeri
 
 ### Skills
 
-**Programming:** Python · Java · C++ · SQL · R
+**Programming:** Python · Java · C++ · SQL · R · SQL
 
-**Machine Learning & Data:** Pandas · NumPy · scikit-learn · CatBoost
+**Machine Learning & Data:** Pandas · NumPy · Pytorch
 
-**Software & Cloud:** Flask · AWS CLI · Docker · Terraform · GitHub
+**Software & Cloud:** AWS CLI · Docker · Terraform · GitHub · Flask
 
 **Tools & Formats:** JSONL · Excel · Word · PowerPoint
 
-**Languages:** Chinese (Native) · English (Fluent) · Japanese (Fluent)
+**Languages:** Chinese  · English  · Japanese 
