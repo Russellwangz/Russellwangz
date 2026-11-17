@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/snow-mountain-banner.jpg" alt="Snowy mountain valley and blue sky" width="100%" />
-</p>
 
 # Russell Wang
 
